@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/Connector-extra.kicad_sym")(options "")(descr ""))
+  (lib (name "Display_Graphic-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/Display_Graphic-extra.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory_Flash-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/Memory_Flash-extra.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory_RAM-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/Memory_RAM-extra.kicad_sym")(options "")(descr ""))
+)
