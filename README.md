@@ -2,10 +2,14 @@ This is a extended SPI PMOD board and holds a [1.8 inch SPI TFT screen with SD-c
 
 When not working with the ST7735S driver, try the S6D02A1 driver. It seems that the S6D02A1 was used on older 1.8 TFT modules (with blue tab).
 
-*Status*: designed, unkown if working.
+*Status*: soldered, unkown if working.
+
+Note: lay down C1 (if top hits TFT module when mounting upright).
 
 My [Kicad library](https://github.com/atoomnetmarc/ATOOMNETKICAD) is used in this project.
 
-![](Kicad/PMOD%20SPI%20SD%20TFT-render.png)
+![](PMOD%20SPI%20SD%20TFT.jpg)
+
+![](PMOD%20SPI%20SD%20TFT-with-tft.jpg)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
